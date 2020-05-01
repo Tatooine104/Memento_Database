@@ -1,5 +1,8 @@
-function Test()
+var Test = 
 {
-  var temp = "!!!!";
-  return temp;
-}
+  create: fuction()
+  {
+    var temp = "!!!!!!!";
+    return temp;
+  }
+};

@@ -1,5 +1,5 @@
 var Test = {
-  create: fuction() {
+  create: function() {
     var temp = "!!!!!!!";
     return temp;
   }

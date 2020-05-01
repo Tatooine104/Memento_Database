@@ -1,4 +1,5 @@
-var Test = {
-  var temp = "Testing!!";
+function Test()
+{
+  var temp = "!!!!";
   return temp;
-};
+}

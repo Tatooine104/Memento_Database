@@ -1,6 +1,7 @@
 var Test = {
   /**
   Testing
+  @param {string} name
   
   @example Test.create();
   */
